@@ -135,9 +135,11 @@ module.exports = {
 	  'truffle-contract-size',
 	  'truffle-plugin-verify'
   ],
-  apiKeys: {
+  api_keys: {
 	etherscan: 'AZRSPYIVQ4NC9BUSSW4IXKAYJTN5CVZ4MB',
-	polygonscan: 'AZRSPYIVQ4NC9BUSSW4IXKAYJTN5CVZ4MB'
+	goerli_etherscan: 'AZRSPYIVQ4NC9BUSSW4IXKAYJTN5CVZ4MB',
+	polygonscan: 'AZRSPYIVQ4NC9BUSSW4IXKAYJTN5CVZ4MB',
+	testnet_polygonscan: 'AZRSPYIVQ4NC9BUSSW4IXKAYJTN5CVZ4MB'
   }
 
 
