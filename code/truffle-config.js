@@ -136,8 +136,8 @@ module.exports = {
 	  'truffle-plugin-verify'
   ],
   api_keys: {
-	etherscan: 'AZRSPYIVQ4NC9BUSSW4IXKAYJTN5CVZ4MB',
-	goerli_etherscan: 'AZRSPYIVQ4NC9BUSSW4IXKAYJTN5CVZ4MB',
+	etherscan: 'BY7AEH96YKKJ5XJZ8HNJQI3WTIYC1JAEJ2',
+	goerli_etherscan: 'BY7AEH96YKKJ5XJZ8HNJQI3WTIYC1JAEJ2',
 	polygonscan: 'AZRSPYIVQ4NC9BUSSW4IXKAYJTN5CVZ4MB',
 	testnet_polygonscan: 'AZRSPYIVQ4NC9BUSSW4IXKAYJTN5CVZ4MB'
   }
